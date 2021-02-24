@@ -162,7 +162,7 @@ header.masthead {
     rgba(0, 0, 0, 0.5)
   ),
   url("../img/masthead-img-2.jpg");
-  background-size:;
+  background-size:cover;
   
 }
 
