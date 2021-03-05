@@ -462,8 +462,26 @@ section.audio-sample-head {
 	background-color:black;
 }
 
+h2.card-title {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+p.card-text {
+	font-size: 15px;
+}
+
 .btn-listen {
-	color: black
-	border: 5px solid;
+	color: black;
+	border: 2px solid;
 	border-color: black;
+	background-color: #fdc63d;
+}
+
+.btn-listen:hover {
+	color:white;
+	border: 2px solid;
+	border-color:black;
+	background-color: black;
+	
 }
