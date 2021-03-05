@@ -461,3 +461,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 section.audio-sample-head {
 	background-color:black;
 }
+
+.btn-listen {
+	color: black
+	border: 5px solid;
+	border-color: black;
+}
