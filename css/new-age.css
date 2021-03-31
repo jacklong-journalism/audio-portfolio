@@ -163,6 +163,7 @@ header.masthead {
   ),
   url("../img/masthead-img-4.jpg");
   background-size:cover;
+  background-position:left bottom;
   
 }
 
